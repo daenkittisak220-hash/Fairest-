@@ -1,6 +1,6 @@
 https://github.com/daenkittisak220-hash# AI-Toolkit - Viking Engine 
 [![DOI](https://img.shields.io/badge/DOI.org/10.5281/zenodo.22700108-blue.svg?style=flat&logo=doi)](https://doi.org/10.5281/zenodo.22700108)
----
+---https://github.com/daenkittisak220-hash
 
 > [!IMPORTANT]
 > # 🚀 ORAKUL STUDIO V2.1 MAJOR UPDATE
